@@ -2,6 +2,8 @@
 first we clone our repository by using command git clone https://personaltoken@github.com/username/alx-pre_course.git
 git add .
 git commit -m ""
+git pull
 git push
+git status
 to make new branch git branch <name>
 to shift branch git checkout <name>
